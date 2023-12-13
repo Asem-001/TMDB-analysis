@@ -4,7 +4,7 @@
 this project is analysis for this dataset where I had two questions and did the analysis to answer them 
 
 [The link for the dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-** *the dataset is a little diffrent because the dataset I have is a little bit old **
+**\*the dataset is a little diffrent because the dataset I have is a little bit old**
 ---
 
 ## Introduction
